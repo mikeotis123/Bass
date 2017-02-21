@@ -1,0 +1,98 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+
+/*Header section with btn included*/
+.download-ul{
+	display: inline;
+}
+.download-li {
+	display: inline;
+	color: white;
+	font-weight: bold;
+	font-size: 19px;
+}
+
+.btn {
+background-color: #ff003d;
+color:white;
+font-weight: bold;
+margin-left: 30px;
+}
+
+/*This is the jumbotron section*/
+
+
+
+.jumbotron {
+
+background-image: url('bg.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+height: 560px;
+margin:0;
+}
+
+.main {
+	color:white;
+	text-align: left;
+}
+p, h2{
+	color: white;
+}
+
+.supporting-1{
+	height: 440px;
+	background-color: #161718;
+	
+}
+.supporting-2{
+	background-color: black;
+}
+
+.supporting-3 {
+	background-color: #161718;
+}
+.supporting-4 {
+	background-image: url('feature.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 400px;
+	text-align: center;
+	padding-top: 249px;
+}
+
+
+.footer {
+  background-color: #000;
+  color: #fff;
+  padding: 50px 0 35px 0;
+}
+
+.footer h3{
+  text-transform: uppercase;
+  font-size: 15px;
+}
+ul {
+	display: inline-block;
+}
+.footer ul {
+  padding: 0;
+  list-style: none;
+  
+}
+
+.footer li a {
+    color: #aaa;
+    font-size: 13px;
+    display: inline-block;
+    padding: 5px 0;
+}
+.footer a {
+	display: inline-block;
+}
+ a {
+display: inline-block;
+}
